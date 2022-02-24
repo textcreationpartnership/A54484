@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulation to His Sacred majesty, upon his safe arrival and happy restauration to his three kingdoms, May 29th, being his birth-day, and our year of jubile, 1660</title>
+            <author>Pestell, William, 1615-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54484</idno>
+            <idno type="STC">Wing P1676A</idno>
+            <idno type="STC">ESTC R3022</idno>
+            <idno type="EEBO-CITATION">13448417</idno>
+            <idno type="OCLC">ocm 13448417</idno>
+            <idno type="VID">99593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 471:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulation to His Sacred majesty, upon his safe arrival and happy restauration to his three kingdoms, May 29th, being his birth-day, and our year of jubile, 1660</title>
+                  <author>Pestell, William, 1615-1696.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to William Pestell.  Cf. NUC Pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99593:1"/>
+            <pb facs="tcp:99593:1"/>
+            <p>A Congratulation TO HIS SACRED MAJESTY, UPON HIS Safe Arrival and happy Reſtauration TO HIS Three Kingdoms, <hi>MAY</hi> 29<hi rend="sup">th</hi>, being his Birth-Day, and our Year of JUBILE, 1660.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:99593:2"/>
+            <pb n="3" facs="tcp:99593:2"/>
+            <head>A CONGRATULATION TO His Sacred Majeſty, UPON His ſafe Arrival, and happy Reſtauration to his Three <hi>Kingdoms.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">A</seg>Mongſt the Giant Wits of theſe ripe times,</l>
+            <l>My Pigmy <hi>Muſe</hi> creeps in, to bring her Rimes;</l>
+            <l>An humble Preſent, to that Sacred <hi>King</hi>
+            </l>
+            <l>Regards the Heart more then the Offering.</l>
+            <l>At our bright <hi>Northern</hi> Blazing Star's approach,</l>
+            <l>The Sea his Horſe was, and a Ship his Coach:</l>
+            <pb n="4" facs="tcp:99593:3"/>
+            <l>To bear ſo rich a burthen, Waves did dance,</l>
+            <l>And (ſwell'd with humble pride) ſtrove to advance</l>
+            <l>Their heads to kiſſe his Hand; the Fiſh did play,</l>
+            <l>And leap for joy, making it Holy-day,</l>
+            <l>Dancing <hi>Levoltoes</hi> to the whiſtling Winde,</l>
+            <l>Which then conſpir'd them Muſick for to finde:</l>
+            <l>And (which is wonderfull indeed) they ſay,</l>
+            <l>A Regiment of Water <hi>Nymphs,</hi> that day,</l>
+            <l>Meer Maids, <hi>per ſe,</hi> came up in ſhoals, to ſing</l>
+            <l>A Maiden Caroll to our Virgin King.</l>
+            <l>Thouſands of Dolphins Crown'd (but none from <hi>France</hi>)</l>
+            <l>With Streamers <hi>Honi ſoit qui mal y penſe,</hi>
+            </l>
+            <l>Rode waiters by; the Whales brought up the Rear,</l>
+            <l>And was reſolv'd to have a Frolick there.</l>
+            <l>
+               <hi>Neptune</hi> reſign'd his Trident, and did ſwear,</l>
+            <l>'Twas his by right who was three Kingdoms Heir.</l>
+            <l>No ſooner landed, and Devotions paſt,</l>
+            <l>But Canons (to diſcharge their Duties) haſte,</l>
+            <l>And give inteligence from Port to Port,</l>
+            <l>Speaking his Welcome in a loud Report:</l>
+            <pb n="5" facs="tcp:99593:3"/>
+            <l>The Bonefires gild each Hill, to whoſe bright ſhine,</l>
+            <l>The Moon grew pale, and did her beams reſign.</l>
+            <l>
+               <hi>Quakers</hi> grew Lunatick, to ſee ſuch Fire,</l>
+            <l>And thought the World ſhould now in flames expire.</l>
+            <l>The Bells did ring men by the Ears, and ſay,</l>
+            <l>It was <hi>Great Britain</hi>'s general Holy-day.</l>
+            <l>See how his Loyal Peers, and Gentry, throng</l>
+            <l>To gild his way, as he doth march along,</l>
+            <l>
+               <hi>CHARLES</hi> in his Glory, with his ſparkling Train,</l>
+            <l>Outfac'd the Sun, who went to bed again.</l>
+            <l>Vollies of Acclamations, peals of Joy,</l>
+            <l>(Which ſent to Heav'n on an Embaſſie)</l>
+            <l>Return'd this Anſwer to their Lowd Requeſt,</l>
+            <l>
+               <hi>Vive le Roy,</hi> be he for ever bleſt.</l>
+            <l>To which his Subjects cry'd <hi>Amen</hi> ſo loud,</l>
+            <l>'Twas like a Clap of Thunder from a Cloud.</l>
+            <l>Bleſt are his Kingdoms now, in this one Vote,</l>
+            <l>O may they n'ere divide, nor change their Note.</l>
+            <l>Women then loſt their Tongues, Mens Arms were thrown</l>
+            <l>Quite out of joynt for Joy, yet no harm done.</l>
+            <pb n="6" facs="tcp:99593:4"/>
+            <l>Some loſt their Heads, which were next morning found,</l>
+            <l>And ſome had Leggs could ſtand upon no ground.</l>
+            <l>The May-poles ſtood too't bravely, all the way,</l>
+            <l>Crown'd all with Garlands of Good Will, that day.</l>
+            <l>
+               <hi>Phanaticks</hi> ſaid the World was drunk, I think</l>
+            <l>It was indeed with Joy, but not with Drink.</l>
+            <l>The Earth was drye as duſt, with which ſome ſay</l>
+            <l>Gallants were powdred to ſome tune that day.</l>
+            <l>The <hi>Zealots</hi> oft miſcarry, there are ſome</l>
+            <l>Say, they were fowl ore'ſeen, to let him come.</l>
+            <l>Ride on, Great <hi>CHARLES,</hi> Triumphant, whoſe rare Arts,</l>
+            <l>By killing Foes with Kindneſs, gains their Hearts:</l>
+            <l>Sure there is Magick in thy Name, or Thee,</l>
+            <l>Pardon, (Great Sir) I'le no Familiar be,</l>
+            <l>From whence doth flow ſuch powerfull Influence,</l>
+            <l>That all Rebellion is baniſh'd hence:</l>
+            <l>No Subject hath the Evil, none diſeas'd,</l>
+            <l>But with Your touch is Cur'd, and pain appeas'd:</l>
+            <l>All Hail to <hi>Englands</hi> Monarch, may I ſee</l>
+            <l>Thy ſelf reflexed, and Poſterity</l>
+            <pb n="7" facs="tcp:99593:4"/>
+            <l>Provided for by You; a Royal Race,</l>
+            <l>To Rule theſe Kingdoms, with a God-like grace.</l>
+            <l>Which is a debt You owe: Then World adieu,</l>
+            <l>But I deſpair of ſeeing one like You;</l>
+            <l>From whoſe bright preſence Majeſty doth riſe,</l>
+            <l>And like the Sun enlighten all our Eyes.</l>
+            <l>Let every Coblers Wife a Diamond wear,</l>
+            <l>And Pearls be hang'd in every common Ear:</l>
+            <l>We have the <hi>Indies</hi> now, brought home, in Thee</l>
+            <l>All Treaſures, and all Sweets, there hyved Bee:</l>
+            <l>The Worlds our Store-houſe now, and we have all</l>
+            <l>That can be wiſh'd; our Life's a Feſtivall.</l>
+            <l>Our dayes all <hi>Halcyon,</hi> the time is come,</l>
+            <l>To bid our Golden Fleece a Welcome home:</l>
+            <l>Thrice Welcome, Royal Sir, our Soveraign Cure;</l>
+            <l>What Heav'n is Eaſe! to thoſe long pains endure?</l>
+            <closer>
+               <signed>William Peſtell.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
